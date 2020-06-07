@@ -31,6 +31,8 @@ Because you might forget to press "stop", causing privacy problems.
 ### Countup Timer
 - So the viewer knows exactly how long the stream has been stuck on the BRB screen.
 
+You can also set negative time for "T-minus" countdown clocks that go positive.
+
 ### Emergency Volume Hotkey
 - Assign to a Desktop Audio source - also adds a hotkey in the options.
 
