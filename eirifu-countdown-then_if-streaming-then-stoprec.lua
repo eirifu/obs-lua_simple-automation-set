@@ -184,7 +184,7 @@ function script_update(settings)
 end
 
 function script_defaults(settings)
-	obs.obs_data_set_default_int(settings, "duration", 60)
+	obs.obs_data_set_default_int(settings, "duration", 5)
 	obs.obs_data_set_default_string(settings, "stop_text", " ")
 end
 
